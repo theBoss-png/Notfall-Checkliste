@@ -2,7 +2,7 @@
   "name": "OP Notfall-Checklisten",
   "short_name": "OP Notfall",
   "description": "Operationssaal Notfallmanagement Checklisten",
-  "start_url": "/index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#dc2626",
