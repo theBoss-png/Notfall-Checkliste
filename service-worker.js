@@ -1,6 +1,6 @@
 const CACHE_NAME = 'op-notfall-v1';
 const STATIC_ASSETS = [
-  '/',
+  './',
   '/index.html',
   '/offline.html',
   '/css/styles.css',
