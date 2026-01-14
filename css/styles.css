@@ -160,7 +160,7 @@ main {
     border-left: 5px solid;
     text-decoration: none;
     color: var(--text-primary);
-    background: white;
+    background: #f3f3f3;
     box-shadow: var(--shadow-sm);
     position: relative;
 }
